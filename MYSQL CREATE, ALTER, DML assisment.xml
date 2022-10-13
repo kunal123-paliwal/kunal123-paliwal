@@ -1,0 +1,14 @@
+<document page-count="6">
+<page number="1">
+<table data-filename="MYSQL CREATE, ALTER, DML assisment.pdf" data-page="1" data-table="1"><tr><td>1.Create Table</td></tr><tr><td>A .Write a SQL statement to create a table named jobs</td></tr><tr><td>including columns job_id,</td></tr><tr><td>job_title, min_salary, max_salary and check whether the</td></tr><tr><td>max_salary amount exceeding the upper limit 25000.</td></tr></table></page>
+<page number="2">
+<table data-filename="MYSQL CREATE, ALTER, DML assisment.pdf" data-page="2" data-table="1"><tr><td>b. Write a SQL statement to create a table named countries including columns country_id,</td></tr><tr><td>country_name and region_id and make sure that no countries except Italy, India and China</td></tr><tr><td>will be entered in the table.</td></tr><tr><td>c.Write a SQL statement to create a table job_history including columns employee_id,</td></tr><tr><td>start_date, end_date,</td></tr><tr><td>job_id and department_id and make sure that, the employee_id column does not contain any</td></tr><tr><td>duplicate value</td></tr><tr><td>at the time of insertion .</td></tr></table></page>
+<page number="3">
+<table data-filename="MYSQL CREATE, ALTER, DML assisment.pdf" data-page="3" data-table="1"><tr><td>2.Alter Table</td></tr><tr><td>a.Write a SQL statement to add a foreign key constraint</td></tr><tr><td>named fk_job_id on job_id column of</td></tr><tr><td>job_history table referencing to the primary key job_id of</td></tr><tr><td>jobs table.</td></tr></table></page>
+<page number="4">
+<table data-filename="MYSQL CREATE, ALTER, DML assisment.pdf" data-page="4" data-table="1"><tr><td>b.Write a SQL statement to rename the table</td></tr><tr><td>countries to country_new.</td></tr><tr><td>c.Write a SQL statement to change the name</td></tr><tr><td>of the column country_id to con_id,</td></tr><tr><td>keeping the data type and size same.</td></tr></table></page>
+<page number="5">
+<table data-filename="MYSQL CREATE, ALTER, DML assisment.pdf" data-page="5" data-table="1"><tr><td>3.DML Statement</td></tr><tr><td>a.Write a SQL statement to insert a record with your</td></tr><tr><td>own value into the table countries against each</td></tr><tr><td>columns.</td></tr></table></page>
+<page number="6">
+</page>
+</document>
